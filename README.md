@@ -1,5 +1,5 @@
 # Bangluru_House_Price_Prediction
-## TABLE OF CONTENTS:
+#### TABLE OF CONTENTS:
 -	PROJECT OBJECTIVE
 -	DATA DESCRIPTION
 -	TOOLS & LIBRARY
@@ -29,6 +29,7 @@ Data is taken from Kaggle which is Bangluru_House_Data. The dataset comprising v
 Seaborn aims to make visualization the central part of exploring and understanding data.
 -	Mat plot: Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy
 ##### PROCESS:
+- Collection of data
 -	Import libraries like scikit learn, NumPy, pandas, seaborn and mat plot
 -	Load the data
 -	Data cleaning 
