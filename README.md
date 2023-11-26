@@ -7,7 +7,7 @@
 ##### PROJECT OBJECTIVE: 
 The objective of the project is to create a machine learning model. I have done by using supervised learning and our aim is to do predictive analysis to predict house price to assist both buyers and sellers in making informed decisions using Linear Regression.
 ##### DATA DESCRIPTION:
-Data is taken from Kaggle which is Bangluru_House_Data. The dataset comprising various features such as area type, price, location, size and other relevant factors affecting house prices in the city. The project aims to provide accurate price estimates for residential properties in Bangalore.
+Data is taken from Kaggle which is Bangluru_House_Data. The dataset comprising various features such as area type, price, location, size and other relevant factors affecting house prices in the city.
 
 ##### Features: 
 *	Area type – describes the area
